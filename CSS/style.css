@@ -1,4 +1,99 @@
 .container{
     max-width: 1116px;
+    margin: 0 auto;
 }
+
+
+.seven {
+    background-color: black;
+  
+    
+}
+
+.seven_container_text1 {
+    color: #ffdb00;
+    font-size: 50px;
+    font-family: 'Abel', sans-serif;
+    padding: 119px 0 49px 0;
+    text-transform: uppercase;
+
+
+
+}
+
+.seven_container_text2 {
+    color: white;
+    font-size: 20px;
+    width: 904px;
+    font-family: 'Abel', sans-serif;
+    padding-bottom: 129px;
+
+}
+
+.seven_container_img {
+    display: flex;
+    padding-bottom: 49px;
+    flex-direction: row;
+    justify-content: space-around;
+    
+
+
+}
+
+.seven_container_img2 {
+    padding-bottom: 123px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.nine {
+    background-color: #ffda00;
+   
+
+
+}
+
+.nine_cotainer_adress {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+
+}
+
+.nine_container_phone {
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+.nine_container_phone_1 {
+    background-color: black;
+    padding: 25px;
+
+}
+
+.nine_container_paragraph {
+    padding-left: 28px;
+    font-family: 'Abel', sans-serif;
+    width: 168px;
+}
+
+
+
+
+
+
 
