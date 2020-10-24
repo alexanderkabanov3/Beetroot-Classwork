@@ -1,3 +1,13 @@
 .container{
     max-width: 1116px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #17191e;
+}
+
+.header__logo{
+    display: flex;
+    justify-content: space-between;
 }
