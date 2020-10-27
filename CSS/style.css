@@ -200,14 +200,11 @@ header {
     padding-bottom: 143px;
 }
 
-display: flex;
-flex-direction: column;
-
-}
 .fourth {
     display: flex;
     justify-content: center;
 }
+
 .container__fourthtext {
     margin: 121px 0 51px 0;
     color: #f5d729;
@@ -215,10 +212,12 @@ flex-direction: column;
     font-family: 'Abel', sans-serif;
     text-transform: uppercase;
 }
+
 .container__fourthtext1 {
     margin: 0 460px 124px 0;
     font-family: 'Abel', sans-serif;
 }
+
 .container__fourthnav {
     display: flex;
     justify-content: center;
@@ -226,59 +225,72 @@ flex-direction: column;
     padding: 0;
     margin-bottom: 118px;
 }
+
 .container__fourthnav>li {
     border: 1px solid #f5d729;
     padding: 7px 28px;
     margin-left: 26px;
 }
+
 .container__fourthtext2 {
     margin-left: 0;
     background-color: #f5d729;
 }
+
 .container__fifth {
     display: flex;
     flex-direction: row;
 }
+
 .container__fifth2 {
     display: flex;
     flex-direction: column;
 }
+
 .container__fifthimg1 {
     display: flex;
     max-width: 500px;
 }
+
 .container__fifthbackground {
     max-width: 690px;
     max-height: 450px;
     background-color: #f5d729;
 }
+
 .container__fifthbackground1 {
     margin: 110px 95px;
     box-sizing: border-box;
 }
+
 .container__fifthtext {
     font-size: 30px;
     font-family: 'Abel', sans-serif;
 }
+
 .container__fifthtext2 {
     margin: 52px 0 52px 0;
     font-size: 20px;
     font-family: 'Abel', sans-serif;
     color: white;
 }
+
 .container__fifthbutton {
     border: 3px solid white;
     padding: 8px 32px;
     font-family: 'Abel', sans-serif;
 }
+
 .container__fifthimg2 {
     max-width: 730px;
     max-height: 450px;
 }
+
 .fifth {
     display: flex;
     margin-bottom: 115px;
 }
+
 .containersix__button {
     border: 3px solid #f5d729;
     font-size: 16, 78px;
@@ -288,18 +300,22 @@ flex-direction: column;
     border-radius: 25px;
     margin-bottom: 115px;
 }
+
 .six {
     display: flex;
     justify-content: center;
 }
+
 .container__fifthimg4 {
     max-width: 418px;
     max-height: 450px;
 }
+
 .container__fifth21 {
     display: flex;
     flex-direction: row;
 }
+
 .container__fifth22 {
     display: flex;
     flex-direction: row;
